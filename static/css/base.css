@@ -37,7 +37,7 @@ body > div.wrapper {
 
 /******** HEADER ********/
 header.site { padding: 50px 0 100px 0; }
-header.site > h1 { font-size: 4em; }
+header.site > h1 { font-size: 2em; }
 header.site > h1:nth-child(2) { position: relative; z-index: -1; top: -5px; text-align: right; }
 
 /******* NAV ********/
@@ -82,7 +82,7 @@ article > footer > div.social {
 .stamp {
     background-color: #000;
     color: #fff;
-    margin: 0; padding: 0 0.6em;
+    margin: 10px; padding: 0 0.6em;
 }
 
 section.content h1 { font-size: 2em; margin-bottom: 5px; }
