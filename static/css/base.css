@@ -3,6 +3,7 @@
 /******** FONTS ********/
 @font-face { font-family: 'Holtwood One SC'; font-style: normal; font-weight: 400; src: local('Holtwood One SC'), local('HoltwoodOneSC'), url(/theme/fonts/holtwoodonesc.woff) format('woff'); }
 @font-face { font-family: 'Ubuntu'; font-style: normal; font-weight: 400; src: local('Ubuntu'), url(/theme/fonts/ubuntu.woff) format('woff'); }
+@font-face { font-family: 'Terminus'; font-style: normal; font-weight: 400; src: local('Terminus'), url(/theme/fonts/TerminusTTF-4.46.0.ttf) format('ttf'); }
 
 /******** BUILT-INS ********/
 html, body { height: 100%; margin: 0; padding: 0; }
@@ -61,7 +62,7 @@ footer.site p { margin: 0; padding: 0; }
 footer.site { font-size: 0.8em; }
 
 section.content { margin-left: 220px; }
-section.content > div.body { margin: 0 10px; font-size: 22px;}
+section.content > div.body { margin: 0 10px; font-size: 18px; font-family: "Terminus"; }
 
 ol.article-list {
     list-style-type: none;
