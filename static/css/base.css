@@ -61,7 +61,7 @@ footer.site p { margin: 0; padding: 0; }
 footer.site { font-size: 0.8em; }
 
 section.content { margin-left: 220px; }
-section.content > div.body { margin: 0 10px; }
+section.content > div.body { margin: 0 10px; font-size: 22px;}
 
 ol.article-list {
     list-style-type: none;
