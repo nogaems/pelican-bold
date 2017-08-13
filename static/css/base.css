@@ -102,6 +102,10 @@ article > footer { font-size: 0.8em; margin: 20px 15px; color: #666; }
 article h2 { margin: 5px 0; }
 article > div.content { margin-bottom: 20px; }
 
+div.content table, tr, td {
+    border: 1px solid;
+}
+
 p.paginator { text-align: right; }
 
 .lrot { transform: rotate(-5deg); -webkit-transform: rotate(-5deg); }
