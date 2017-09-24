@@ -9,7 +9,7 @@
 html, body { height: 100%; margin: 0; padding: 0; }
 p { padding: 0; margin: 10px 0; }
 body { min-height: 100%; font-family: 'Ubuntu'; background-image: url(../images/bg.png); font-size: 13px; }
-h1, h2, h3, h4 { font-family: 'Holtwood One SC'; margin: 0; padding: 0; display: inline-block; }
+h1, h2, h3, h4 { font-family: 'Terminus'; margin: 0; padding: 0; display: inline-block; }
 a { color: #F36C00; text-decoration: none; }
 hr { background-color: #ccc; height: 1px; border: 0; }
 blockquote { background-color: #ededed; border: 1px solid #ccc; margin: 0 !important; padding: 10px 20px;} 
@@ -38,7 +38,7 @@ body > div.wrapper {
 
 /******** HEADER ********/
 header.site { padding: 50px 0 100px 0; }
-header.site > h1 { font-size: 2em; }
+header.site > h1 { font-size: 2em; font-family: 'Holtwood One SC'}
 header.site > h1:nth-child(2) { position: relative; z-index: -1; top: -5px; text-align: right; }
 
 /******* NAV ********/
